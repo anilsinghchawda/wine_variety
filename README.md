@@ -1,11 +1,11 @@
-# wine_variety:-Applied Text classification to predict the Wine variety
-Required Libraries
-numpy
-pandas
-tensorflow
-sklearn
-keras
-matplotlib
+# wine_variety:- Applied Text classification to predict the Wine variety
+Required Libraries : - 
+numpy,
+pandas,
+tensorflow,
+sklearn,
+keras,
+matplotlib,
 seaborn
 
 Model Used
